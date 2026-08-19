@@ -448,7 +448,7 @@ function Footer() {
         <div>
           <img src={LOGO_URL} alt="Decobay & OCD" className="h-16 w-auto" loading="lazy" />
           <p className="mt-5 max-w-xs text-sm leading-relaxed text-muted-foreground">
-            Decobay &amp; OCD — design–build studio and licensed general contractor serving the Bay
+            Decobay &amp; OCD — Design–Build Firm and Licensed general contractor serving the Bay
             Area, California.
           </p>
         </div>
